@@ -15,10 +15,7 @@ The Theater Hall Management System is a comprehensive web application designed t
 5. [Usage](#usage)
    - [Configuration](#configuration)
    - [Running the Application](#running-the-application)
-6. [Database Schema](#database-schema)
-7. [Security](#security)
-8. [Contributing](#contributing)
-9. [License](#license)
+
 
 ## Introduction
 
