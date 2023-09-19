@@ -128,10 +128,4 @@ The database schema will be automatically created using Spring Data JPA. Ensure 
    http://localhost:8080
    ```
 
-## Database Schema
 
-For details about the database schema and table structures, please refer to the [Database Schema](docs/database-schema.md) documentation.
-
-## Security
-
-The application uses Spring Security for user authentication and authorization. Please refer to the [Security](docs/security.md) documentation for more information on configuring roles and permissions.
